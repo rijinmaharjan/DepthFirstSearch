@@ -66,9 +66,14 @@ else:
 
 
    
+<<<<<<< HEAD
+print("hello hello")
+
+=======
 print("hello world")
 
 
 print("hello hello")
 
 print ("My work")
+>>>>>>> 80539d8c63f3e15ab9fb7fb2975d298516c4f784
